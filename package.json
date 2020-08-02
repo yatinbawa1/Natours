@@ -1,0 +1,14 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w Assets/sass/main.scss Assets/css/style.css"
+  },
+  "author": "yatin bawa",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
